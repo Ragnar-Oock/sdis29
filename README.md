@@ -10,9 +10,9 @@ Repo d'un projet de développement d'interface de gestion d'un centre de pompier
    
 # Amélioration possibles :   
 1. mise a nivau du système de login   
-  -- remplacer MD5 par SHA256
-  -- ajout d'un salage efficace
-  -- interoperabilité avec le syteme actuel (transparence de migration pour l'utilisateur)
+  - remplacer MD5 par SHA256
+  - ajout d'un salage efficace
+  - interoperabilité avec le syteme actuel (transparence de migration pour l'utilisateur)
 1. refonte de la structure de la base de données (non presente dans le git a ce jour)
 1. refonte complete de la charte graphique et netoyage de la feuille css
 1. minisation du code et optimisation globale des balises HTML
